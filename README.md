@@ -13,8 +13,10 @@ public class Exercise15 {
   
    for(i=1;i<=n;i++)
    {
+   
      System.out.println (2*i-1);
      sum+=2*i-1;
+     
    }
    
    System.out.println ("The Sum of odd Natural Number upto " +n+" terms is: " +sum);
