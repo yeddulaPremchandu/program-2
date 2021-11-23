@@ -7,6 +7,7 @@ public class Exercise15 {
 
    System.out.print("Input number of terms is: ");
 {
+
    Scanner in = new Scanner(System.in);
    
 	  n = in.nextInt();
