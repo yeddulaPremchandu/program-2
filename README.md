@@ -8,7 +8,9 @@ public class Exercise15 {
    System.out.print("Input number of terms is: ");
 {
    Scanner in = new Scanner(System.in);
-		    n = in.nextInt();
+   
+	  n = in.nextInt();
+	  
   System.out.println ("\nThe odd numbers are :");
   
    for(i=1;i<=n;i++)
