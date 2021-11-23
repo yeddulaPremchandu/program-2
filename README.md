@@ -1,9 +1,11 @@
 #program2
 
 import java.util.Scanner;
+
 public class Exercise15 {
 
    public static void main(String[] args){
+   
    int i,n,sum=0;
 
    System.out.print("Input number of terms is: ");
